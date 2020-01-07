@@ -1,0 +1,12 @@
+.gradle
+build
+repo
+bin
+.settings
+.classpath
+.project
+*.class
+*.jar
+gradle
+.DS_Store
+

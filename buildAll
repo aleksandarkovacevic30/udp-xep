@@ -1,0 +1,6 @@
+echo ===============GRADLEW CLEAN=============
+./gradlew clean
+echo ===============GRADLEW depsCopy=============
+./gradlew depsCopy
+echo ===============GRADLEW MAINJAR=============
+./gradlew main
